@@ -141,13 +141,13 @@ li {
   
 }
 input[type="date"]{
-  color: white;
+  
   /* background-color:; */
   width:400px;
   margin-left: 800px;
 }
 input[type="time"]{
-  color: #fff;
+  /* color: #fff; */
   /* background-color: black; */
   margin-top: 30px;
   width: 400px;
